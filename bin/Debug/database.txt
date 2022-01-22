@@ -1,0 +1,1 @@
+Data Source=DOGUKAN\SQLEXPRESS;Initial Catalog=ETA_AOUAFIL_2021;Integrated Security=True;Connect Timeout=30
